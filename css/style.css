@@ -16,6 +16,17 @@
   h1 {
     margin-bottom: 5px;
   }
+
+footer {
+    text-align: center;
+  padding-bottom: 30px;
+  color: #776859;
+  font-size: 18px;
+  text-decoration: none;
+  text-transform: uppercase;
+  opacity: 0.8;
+}
+
   .bold {
     font-weight: 700;
     font-size: 20px;
@@ -206,8 +217,3 @@
     height: 115px;
     background: #776859;
   }
-footer {text-align: center;
-  padding-bottom: 30px;
-  color: #776859;
-  font-size: 18px;
-  text-decoration: none;}
